@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the OFC Portfolio feature.
+ */
+
+include_once 'ofc_portfolio.features.inc';
