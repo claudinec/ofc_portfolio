@@ -47,15 +47,17 @@ function ofc_portfolio_ds_layout_settings_info() {
         0 => 'title',
       ),
       'left' => array(
-        1 => 'field_screenshot',
+        1 => 'field_dates',
+        2 => 'field_screenshot',
       ),
       'right' => array(
-        2 => 'field_portfolio_url',
-        3 => 'body',
+        3 => 'field_portfolio_url',
+        4 => 'body',
       ),
     ),
     'fields' => array(
       'title' => 'header',
+      'field_dates' => 'left',
       'field_screenshot' => 'left',
       'field_portfolio_url' => 'right',
       'body' => 'right',
